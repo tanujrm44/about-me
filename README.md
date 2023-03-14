@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanuj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">As a full stack web developer, I have a passion for creating seamless experiences for users across all devices. With a strong background in both front-end design and back-end development, I am able to bring sites to life from the ground up. My technical skills include proficiency in HTML, CSS, JavaScript, React, Node.js, and MongoDB. I am also well-versed in project management methodologies and communicating effectively with team members and clients.</h4>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 🔭 I’m currently working on **my course**
